@@ -27,5 +27,12 @@
     "@types/node": "22.10.1",
     "@types/react": "19.0.0",
     "@types/react-dom": "19.0.0"
-  }
+  },
+  "name": "movierecommendationapp_",
+  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
